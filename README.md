@@ -1,4 +1,4 @@
-# Sales using Machine Learning
+# Sales Prediction using Machine Learning
 Machine learning project on Sales Prediction
 
 Competition hosted by **Analytics Vidhya**
