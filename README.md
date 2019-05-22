@@ -1,5 +1,5 @@
-# Loan-Prediction using Machine Learning
-Machine learning project on Loan Prediction
+# Sales using Machine Learning
+Machine learning project on Sales Prediction
 
 Competition hosted by **Analytics Vidhya**
 
